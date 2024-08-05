@@ -1,0 +1,162 @@
+[
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 + '2');",
+    "answer_1": "22",
+    "answer_2": "4",
+    "answer_3": "NaN",
+    "answer_4": "TypeError",
+    "right_answer": "22"
+  },
+  {
+    "title": "What is the result of the expression 5 % 2?",
+    "answer_1": "2",
+    "answer_2": "3",
+    "answer_3": "1",
+    "answer_4": "0",
+    "right_answer": "1"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(typeof null);",
+    "answer_1": "undefined",
+    "answer_2": "null",
+    "answer_3": "object",
+    "answer_4": "string",
+    "right_answer": "object"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(3 === '3');",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "false"
+  },
+  {
+    "title": "What is the result of the expression 'hello'.length?",
+    "answer_1": "5",
+    "answer_2": "6",
+    "answer_3": "4",
+    "answer_4": "TypeError",
+    "right_answer": "5"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 * '3');",
+    "answer_1": "6",
+    "answer_2": "5",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "6"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(4 + 5 + 'px');",
+    "answer_1": "9px",
+    "answer_2": "45px",
+    "answer_3": "NaN",
+    "answer_4": "TypeError",
+    "right_answer": "9px"
+  },
+  {
+    "title": "What is the result of the expression 10 / 0?",
+    "answer_1": "Infinity",
+    "answer_2": "NaN",
+    "answer_3": "0",
+    "answer_4": "TypeError",
+    "right_answer": "Infinity"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 == '2');",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "true"
+  },
+  {
+    "title": "What is the result of the expression 'hello' + 'world'?",
+    "answer_1": "helloworld",
+    "answer_2": "hello world",
+    "answer_3": "NaN",
+    "answer_4": "TypeError",
+    "right_answer": "helloworld"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 - '3');",
+    "answer_1": "-1",
+    "answer_2": "1",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "-1"
+  },
+  {
+    "title": "What is the result of the expression 2 ** 3?",
+    "answer_1": "6",
+    "answer_2": "8",
+    "answer_3": "9",
+    "answer_4": "TypeError",
+    "right_answer": "8"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 + 2 + '2');",
+    "answer_1": "22",
+    "answer_2": "4",
+    "answer_3": "NaN",
+    "answer_4": "TypeError",
+    "right_answer": "42"
+  },
+  {
+    "title": "What is the result of the expression '5' - 2?",
+    "answer_1": "3",
+    "answer_2": "7",
+    "answer_3": "2",
+    "answer_4": "TypeError",
+    "right_answer": "3"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 == 2);",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "true"
+  },
+  {
+    "title": "What is the result of the expression 'hello'.toUpperCase()?",
+    "answer_1": "hello",
+    "answer_2": "HELLO",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "HELLO"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 + 2 === 4);",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "true"
+  },
+  {
+    "title": "What is the result of the expression '5' + 2?",
+    "answer_1": "7",
+    "answer_2": "52",
+    "answer_3": "2",
+    "answer_4": "TypeError",
+    "right_answer": "52"
+  },
+  {
+    "title": "What is the output of the following code?\n\nconsole.log(2 * '3' + 4);",
+    "answer_1": "10",
+    "answer_2": "7",
+    "answer_3": "NaN",
+    "answer_4": "TypeError",
+    "right_answer": "10"
+  },
+  {
+    "title": "What is the result of the expression 10 > 5?",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "TypeError",
+    "answer_4": "undefined",
+    "right_answer": "true"
+  }
+]

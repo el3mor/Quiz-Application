@@ -1,0 +1,162 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Creative Style Sheets",
+    "answer_3": "Computer Style Sheets",
+    "answer_4": "Colorful Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "What is the default value of the position property in CSS?",
+    "answer_1": "static",
+    "answer_2": "relative",
+    "answer_3": "absolute",
+    "answer_4": "fixed",
+    "right_answer": "static"
+  },
+  {
+    "title": "What is the CSS property used to control the text size?",
+    "answer_1": "font-size",
+    "answer_2": "text-size",
+    "answer_3": "font-style",
+    "answer_4": "text-style",
+    "right_answer": "font-size"
+  },
+  {
+    "title": "Which CSS property is used to change the background color of an element?",
+    "answer_1": "background-color",
+    "answer_2": "color",
+    "answer_3": "background",
+    "answer_4": "background-image",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "What is the CSS property used to add shadows to elements?",
+    "answer_1": "box-shadow",
+    "answer_2": "text-shadow",
+    "answer_3": "shadow",
+    "answer_4": "element-shadow",
+    "right_answer": "box-shadow"
+  },
+  {
+    "title": "Which CSS property is used to control the spacing between lines of text?",
+    "answer_1": "line-height",
+    "answer_2": "text-spacing",
+    "answer_3": "letter-spacing",
+    "answer_4": "line-spacing",
+    "right_answer": "line-height"
+  },
+  {
+    "title": "What is the CSS property used to align text horizontally?",
+    "answer_1": "text-align",
+    "answer_2": "align-text",
+    "answer_3": "text-justify",
+    "answer_4": "text-horizontal-align",
+    "right_answer": "text-align"
+  },
+  {
+    "title": "Which CSS property is used to control the appearance of an element's border?",
+    "answer_1": "border-style",
+    "answer_2": "border-color",
+    "answer_3": "border-width",
+    "answer_4": "border-appearance",
+    "right_answer": "border-style"
+  },
+  {
+    "title": "What is the CSS property used to control the visibility of an element?",
+    "answer_1": "visibility",
+    "answer_2": "display",
+    "answer_3": "opacity",
+    "answer_4": "hidden",
+    "right_answer": "visibility"
+  },
+  {
+    "title": "Which CSS property is used to control the order of elements in a flex container?",
+    "answer_1": "order",
+    "answer_2": "flex-order",
+    "answer_3": "flex-direction",
+    "answer_4": "flex-ordering",
+    "right_answer": "order"
+  },
+  {
+    "title": "What is the CSS property used to control the size of an element relative to its parent?",
+    "answer_1": "width",
+    "answer_2": "height",
+    "answer_3": "size",
+    "answer_4": "dimension",
+    "right_answer": "width"
+  },
+  {
+    "title": "Which CSS property is used to control the appearance of a list?",
+    "answer_1": "list-style",
+    "answer_2": "list-appearance",
+    "answer_3": "list-type",
+    "answer_4": "list-format",
+    "right_answer": "list-style"
+  },
+  {
+    "title": "What is the CSS property used to control the spacing between elements?",
+    "answer_1": "margin",
+    "answer_2": "padding",
+    "answer_3": "spacing",
+    "answer_4": "gap",
+    "right_answer": "margin"
+  },
+  {
+    "title": "Which CSS property is used to control the appearance of text when it overflows its container?",
+    "answer_1": "text-overflow",
+    "answer_2": "overflow",
+    "answer_3": "text-wrap",
+    "answer_4": "text-clip",
+    "right_answer": "text-overflow"
+  },
+  {
+    "title": "What is the CSS property used to control the appearance of an element when it is being hovered over?",
+    "answer_1": "hover",
+    "answer_2": "mouse-hover",
+    "answer_3": "hover-effect",
+    "answer_4": "hover-style",
+    "right_answer": "hover"
+  },
+  {
+    "title": "Which CSS property is used to control the appearance of an element when it is being clicked?",
+    "answer_1": "active",
+    "answer_2": "click",
+    "answer_3": "click-effect",
+    "answer_4": "click-style",
+    "right_answer": "active"
+  },
+  {
+    "title": "What is the CSS property used to control the appearance of an element when it is in focus?",
+    "answer_1": "focus",
+    "answer_2": "focused",
+    "answer_3": "focus-effect",
+    "answer_4": "focus-style",
+    "right_answer": "focus"
+  },
+  {
+    "title": "Which CSS property is used to control the appearance of an element when it is disabled?",
+    "answer_1": "disabled",
+    "answer_2": "disable",
+    "answer_3": "disable-effect",
+    "answer_4": "disable-style",
+    "right_answer": "disabled"
+  },
+  {
+    "title": "What is the CSS property used to control the appearance of an element when it is selected?",
+    "answer_1": "selected",
+    "answer_2": "selection",
+    "answer_3": "select",
+    "answer_4": "select-effect",
+    "right_answer": "selection"
+  },
+  {
+    "title": "Which CSS property is used to control the appearance of an element when it is in a specific state?",
+    "answer_1": "pseudo-class",
+    "answer_2": "state",
+    "answer_3": "class",
+    "answer_4": "specific-state",
+    "right_answer": "pseudo-class"
+  }
+]
